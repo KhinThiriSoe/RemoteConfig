@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>app_background_color</key>
+        <value>#4285F4</value>
+    </entry>
+    <entry>
+        <key>app_main_text_view</key>
+        <value>Firebase Remote Config</value>
+    </entry>
+    <entry>
+        <key>app_sub_text_view</key>
+        <value>Learning Firebase Remote Config</value>
+    </entry>
+</defaultsMap>

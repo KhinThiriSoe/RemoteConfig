@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4285F4"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/remote_value_main_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Firebase Remote Config"
+        android:textAlignment="center"
+        android:textSize="32sp"
+        android:layout_margin="16dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/remote_value_iv"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/common_full_open_on_phone"/>
+
+    <TextView
+        android:id="@+id/remote_value_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Learning Firebase Remote Config"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="24dp"
+        android:textStyle="bold"/>
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043894758013",
+    "firebase_url": "https://remoteconfig-86ae3.firebaseio.com",
+    "project_id": "remoteconfig-86ae3",
+    "storage_bucket": "remoteconfig-86ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043894758013:android:a00f93e7d7d8e12d629f14",
+        "android_client_info": {
+          "package_name": "com.khinthirisoe.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043894758013-hmjp2e68tlkqrotb43qub2mgg7uco90m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbsEFzY3fItfzL5V6ArX1nTngHb8Gq2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043894758013-hmjp2e68tlkqrotb43qub2mgg7uco90m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
